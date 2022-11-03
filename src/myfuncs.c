@@ -8,3 +8,7 @@ void foo(void) {
 void goo(void) {
         printf("hello goo\n");
 }
+
+void zoo(void) {
+        printf("hello zoo\n");
+}
